@@ -16,6 +16,7 @@ This is where I'll be storing my javascript libraries and optimisations
 - Concave polygon (Can I pull it off? well only 1 way to find out)
 - Fourier stuff
 - I want to use this to represent eqns(like 3blue 1 brown)
+- Graphics for 3D and 2D Vector Drawings
 
 3. Trees
 - Binary Tree
@@ -26,5 +27,8 @@ This is where I'll be storing my javascript libraries and optimisations
 
 5. Minimum Calculator
 - A Library which calculates minimum values for optimal speed for most of the things I am making
+
+6. Text-Graphics/ Math-eqn Graphics
+- A tool to show math nicely
 
 ~ XZoras
